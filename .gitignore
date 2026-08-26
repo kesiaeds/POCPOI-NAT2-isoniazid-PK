@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+
+# R
+*.Rhistory
+*.RData
+.Rproj.user/
+
+# Large model objects (not for public repo)
+*.rds
+*.RDS
+
+# Manuscript drafts and internal docs
+*.docx
+*.tar.gz
+
+# Slurm logs
+*.log
+*.err

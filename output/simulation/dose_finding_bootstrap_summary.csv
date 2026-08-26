@@ -1,0 +1,10 @@
+Phenotype,logic,median,q05,q95,mean
+Slow,AUC_match,650.0,550.0,850.0,695.2
+Slow,C24_ceiling,350.0,200.0,1104.0,478.4
+Slow,C24_match,200.0,200.0,250.0,211.0
+Intermediate,AUC_match,1250.0,1100.0,1400.0,1244.1
+Intermediate,C24_ceiling,1800.0,1800.0,1800.0,1788.4
+Intermediate,C24_match,1000.0,450.0,1800.0,1131.4
+Rapid,AUC_match,1600.0,950.0,1800.0,1520.6
+Rapid,C24_ceiling,1800.0,1300.0,1800.0,1746.1
+Rapid,C24_match,1800.0,350.0,1800.0,1405.8

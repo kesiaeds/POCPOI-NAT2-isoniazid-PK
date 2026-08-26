@@ -1,0 +1,4 @@
+Phenotype,Protocol,popPK_AUC_match,Emp_AUC_match,DP_AUC_match,popPK_Ceiling,Emp_Ceiling,DP_Ceiling
+Slow,300,650,550,500,350,200,300
+Intermediate,900,1200,900,900,1800,450,1800
+Rapid,1500,1600,1800,1800,1800,1800,1800
