@@ -1,10 +1,10 @@
-# POCPOI — NAT2 pharmacogenomics-guided isoniazid dosing for tuberculosis preventive therapy in Brazil
+# POCPOI — Genotype-guided isoniazid dosing harmonizes drug exposure in 3HP tuberculosis preventive therapy
 
 **ClinicalTrials.gov:** [NCT05413551](https://clinicaltrials.gov/study/NCT05413551)
 
 This repository contains the analysis code, anonymized participant data, and figures associated with:
 
-> da Silva et al. *NAT2 pharmacogenomics-guided isoniazid dosing for tuberculosis preventive therapy in Brazil*. Under review, 2026.
+> da Silva et al. *Genotype-guided isoniazid dosing harmonizes drug exposure in 3HP tuberculosis preventive therapy*. Under review, 2026.
 
 ---
 
@@ -140,7 +140,7 @@ The study was approved by the Research Ethics Committees at UFMS (Campo Grande) 
 
 ## Citation
 
-da Silva K.E., et al. *NAT2 pharmacogenomics-guided isoniazid dosing for tuberculosis preventive therapy in Brazil.* Under review, 2026.
+da Silva K.E., et al. *Genotype-guided isoniazid dosing harmonizes drug exposure in 3HP tuberculosis preventive therapy.* Under review, 2026.
 
 ---
 
